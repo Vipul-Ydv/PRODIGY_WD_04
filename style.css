@@ -247,10 +247,11 @@ body::-webkit-scrollbar-thumb {
 }
 
 .about__ul{
+  font-family: "Poppins", sans-serif;
   margin-left: 1.4rem;
   margin-top: 1rem;
   margin-right: 8rem;
-  color: var(--clr-slate600);
+  color:  #e11d48;
 }
 
 ul.about__ul{
